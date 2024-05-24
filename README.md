@@ -16,9 +16,11 @@
 <img src="https://play-lh.googleusercontent.com/pao-47YoMcSV8iYk8CZn3Fvq6ieEco6ZZ3Q9A4PcWQZWjrelN6Cv1-BOE8XvFq91Mg" width="64" height="64"/>
 <img src="https://cdn-icons-png.flaticon.com/512/10505/10505191.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJKVtdmBz02Q8szgJybgpR1Y1Mbd8JGsVg7QFeJLD9w&s" width="64" height="64"/>
+<img src="https://cdn-icons-png.flaticon.com/512/689/689338.png" width="64" height="64"/>
 <br>
 <img src="https://w7.pngwing.com/pngs/369/795/png-transparent-arduino-macos-bigsur-icon-thumbnail.png" width="64" height="64"/>
 <img src="https://www.espressif.com/sites/all/themes/espressif/images/esp32-c6/esp32-c6-socs.png" width="64" height="64"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYW3my1PJl_C1yGVv3GcgfRNlsKTOtEK6Fk1a6x3CjQ&s" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV3PK6WEheZ1Or1PmQbOjA3D_zEoFKVUMXB-lvCJ0ww&s" width="64" height="64"/>
 <img src="https://seeklogo.com/images/Z/zilog-logo-9FB3F856D3-seeklogo.com.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRks9MUJrCM3TXQaFBBrJCgAhBhw7gpUZBnKcxW4CRhg&s" width="64" height="64"/>
