@@ -5,16 +5,23 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
+<hr>
 <div align="center" style="display: inline-block;">
   <img src="https://readme-typing-svg.herokuapp.com?font=CourierNew&color=%ccc&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+SENAI!📚" alt="Typing SVG" style="display: inline-block;">
 </div>
-
-
+<hr>
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/3118/3118352.png" width="32" height="32"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wNPGVkIOotqwn65mXxA-1gsV6VPiX2TgxMBQoB76ww&s" width="32" height="32"/>
 <img src="https://play-lh.googleusercontent.com/pao-47YoMcSV8iYk8CZn3Fvq6ieEco6ZZ3Q9A4PcWQZWjrelN6Cv1-BOE8XvFq91Mg" width="32" height="32"/>
+<img src="https://purgatorioeletronico.files.wordpress.com/2012/12/konami-logo.jpg?w=640" width="32" height="32"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6164061e-c158-4e7d-a911-73a48aa0f319/d424npi-1ee317a2-36de-4660-a654-b94946eb50d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxNjQwNjFlLWMxNTgtNGU3ZC1hOTExLTczYTQ4YWEwZjMxOVwvZDQyNG5waS0xZWUzMTdhMi0zNmRlLTQ2NjAtYTY1NC1iOTQ5NDZlYjUwZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ypOwPqCSu6820AE_NYgByt_ebpNgqeJYtDw-Z1-l1hU" width="32" height="32"/>
+<br>
+<img src="https://w7.pngwing.com/pngs/369/795/png-transparent-arduino-macos-bigsur-icon-thumbnail.png" width="32" height="32"/>
+<img src="https://www.espressif.com/sites/all/themes/espressif/images/esp32-c6/esp32-c6-socs.png" width="32" height="32"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV3PK6WEheZ1Or1PmQbOjA3D_zEoFKVUMXB-lvCJ0ww&s" width="32" height="32"/>
+<img src="https://seeklogo.com/images/Z/zilog-logo-9FB3F856D3-seeklogo.com.png" width="32" height="32"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRks9MUJrCM3TXQaFBBrJCgAhBhw7gpUZBnKcxW4CRhg&s" width="32" height="32"/>
 <img src="https://cdn-icons-png.flaticon.com/512/10505/10505191.png" width="32" height="32"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSJKVtdmBz02Q8szgJybgpR1Y1Mbd8JGsVg7QFeJLD9w&s" width="32" height="32"/>
 <br>
@@ -38,9 +45,13 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBvT1IxHDaihbNyPZz1riNEcYmyWW_N244S1caywGSA&s" width="32" height="32"/>
 <br>
 
-<img src="https://purgatorioeletronico.files.wordpress.com/2012/12/konami-logo.jpg?w=640" width="32" height="32"/>
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6164061e-c158-4e7d-a911-73a48aa0f319/d424npi-1ee317a2-36de-4660-a654-b94946eb50d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxNjQwNjFlLWMxNTgtNGU3ZC1hOTExLTczYTQ4YWEwZjMxOVwvZDQyNG5waS0xZWUzMTdhMi0zNmRlLTQ2NjAtYTY1NC1iOTQ5NDZlYjUwZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ypOwPqCSu6820AE_NYgByt_ebpNgqeJYtDw-Z1-l1hU" width="32" height="32"/>
 <!-- <img src="" width="32" height="32"/>
-<img src="" width="32" height="32"/>
 <img src="" width="32" height="32"/> -->
 </div>
+<hr>
+<div align="center">
+  <a href="https://github.com/DenadaiSenai/DenadaiSenai"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenadaiSenai&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenadaiSenai&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
