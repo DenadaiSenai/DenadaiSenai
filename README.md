@@ -51,13 +51,14 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBvT1IxHDaihbNyPZz1riNEcYmyWW_N244S1caywGSA&s" width="64" height="64"/>
 <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/480px-The_GIMP_icon_-_gnome.svg.png" width="64" height="64"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwbuHpynTdFHkhTXSkHxPe-gJKZoxS0qlVCaCjX7Mg&s" width="64" height="64"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG-_Kfs4jfkt1IaMfofYeq33NkJUjvYeHjjytJYrR6w&s" width="64" height="64"/>
+<br>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6164061e-c158-4e7d-a911-73a48aa0f319/d424npi-1ee317a2-36de-4660-a654-b94946eb50d5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxNjQwNjFlLWMxNTgtNGU3ZC1hOTExLTczYTQ4YWEwZjMxOVwvZDQyNG5waS0xZWUzMTdhMi0zNmRlLTQ2NjAtYTY1NC1iOTQ5NDZlYjUwZDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ypOwPqCSu6820AE_NYgByt_ebpNgqeJYtDw-Z1-l1hU" width="64" height="64"/>
 <img src="https://purgatorioeletronico.files.wordpress.com/2012/12/konami-logo.jpg?w=640" width="64" height="64"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8620066f-455d-4b15-bd72-96bd441e42d7/d2f0a3h-fd63d9c9-c858-47a2-a2ce-a8487a5f9a81.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2MjAwNjZmLTQ1NWQtNGIxNS1iZDcyLTk2YmQ0NDFlNDJkN1wvZDJmMGEzaC1mZDYzZDljOS1jODU4LTQ3YTItYTJjZS1hODQ4N2E1ZjlhODEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C2GY2pQmVsn285d8vtH3U2kELWpnj4vMYRDo4CkGNgs" width="64" height="64"/>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/480px-The_GIMP_icon_-_gnome.svg.png" width="64" height="64"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwbuHpynTdFHkhTXSkHxPe-gJKZoxS0qlVCaCjX7Mg&s" width="64" height="64"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG-_Kfs4jfkt1IaMfofYeq33NkJUjvYeHjjytJYrR6w&s" width="64" height="64"/>
 <!-- <img src="" width="64" height="64"/>
 <img src="" width="64" height="64"/> -->
 </div>
