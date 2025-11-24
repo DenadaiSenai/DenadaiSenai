@@ -26,12 +26,12 @@
 <img src="https://www.espressif.com/sites/all/themes/espressif/images/esp32-c6/esp32-c6-socs.png" width="72" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYW3my1PJl_C1yGVv3GcgfRNlsKTOtEK6Fk1a6x3CjQ&s" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV3PK6WEheZ1Or1PmQbOjA3D_zEoFKVUMXB-lvCJ0ww&s" width="64" height="64"/>
-<img src="https://seeklogo.com/images/Z/zilog-logo-9FB3F856D3-seeklogo.com.png" width="64" height="64"/>
+<!-- <img src="https://seeklogo.com/images/Z/zilog-logo-9FB3F856D3-seeklogo.com.png" width="64" height="64"/> -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRks9MUJrCM3TXQaFBBrJCgAhBhw7gpUZBnKcxW4CRhg&s" width="64" height="64"/>
 <br>
 <!-- Linha 3 -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wRQCoJnFRArqNkiiuSYo7lWX_RiFozrKaspvDQsGHw&s" width="64" height="64"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobFODMygBxab8M3gzlPn2Op2zuegL6WgB3ueN8ufIeg&s" width="64" height="64"/>
+<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobFODMygBxab8M3gzlPn2Op2zuegL6WgB3ueN8ufIeg&s" width="64" height="64"/> -->
 <img src="https://w7.pngwing.com/pngs/130/892/png-transparent-apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-miscellaneous-text-logo-thumbnail.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzyzbF29nI7Bgc1qsfMy7ky2KtIstUaZ3qamxdHQvjw&s" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQblOaD_QUclhRUYLWlxNhbKj7Jd7hUQ1dO-ghq_Ijw&s" width="64" height="64"/>
@@ -46,7 +46,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wBMRgM9LJu7yh4-RiLc9kJ_znavBJ0FHIgd-ibG0sA&s" width="64" height="64"/>
 <img src="https://wiki.freepascal.org/images/e/ec/Lazarus-icons-exe-proposal-bpsoftware.png" width="64" height="64"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="64" height="64"/>
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="64" height="64"/>
+<!-- <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="64" height="64"/> -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsQqqFt2_NFUZjah7_PbQNMKnFmfdlzSgZ3lKmoWx0Q&s" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKItTjW3CPaI2lVF0ng_MmmeRg3RUAVAENN8M7FZQDQ&s" width="64" height="64"/>
 <br>
