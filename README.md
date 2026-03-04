@@ -51,7 +51,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKItTjW3CPaI2lVF0ng_MmmeRg3RUAVAENN8M7FZQDQ&s" width="64" height="64"/>
 <br>
 <!-- Linha 6 -->
-<!-- <img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="64" height="64"/> -->
+<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="64" height="64"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBvT1IxHDaihbNyPZz1riNEcYmyWW_N244S1caywGSA&s" width="64" height="64"/>
 <br>
