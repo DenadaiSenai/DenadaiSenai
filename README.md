@@ -43,7 +43,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ZB-52smA_PfUgpOgmJdGtADMzhM5RYcAVjfP5MytLw&s" width="64" height="64"/>
 <br>
 <!-- Linha 5 -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wBMRgM9LJu7yh4-RiLc9kJ_znavBJ0FHIgd-ibG0sA&s" width="64" height="64"/>
+<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wBMRgM9LJu7yh4-RiLc9kJ_znavBJ0FHIgd-ibG0sA&s" width="64" height="64"/> -->
 <img src="https://wiki.freepascal.org/images/e/ec/Lazarus-icons-exe-proposal-bpsoftware.png" width="64" height="64"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="64" height="64"/>
 <!-- <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="64" height="64"/> -->
@@ -51,11 +51,11 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKItTjW3CPaI2lVF0ng_MmmeRg3RUAVAENN8M7FZQDQ&s" width="64" height="64"/>
 <br>
 <!-- Linha 6 -->
-<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="64" height="64"/>
+<!-- <img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="64" height="64"/> -->
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBvT1IxHDaihbNyPZz1riNEcYmyWW_N244S1caywGSA&s" width="64" height="64"/>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/480px-The_GIMP_icon_-_gnome.svg.png" width="64" height="64"/>
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/480px-The_GIMP_icon_-_gnome.svg.png" width="64" height="64"/> -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YwbuHpynTdFHkhTXSkHxPe-gJKZoxS0qlVCaCjX7Mg&s" width="64" height="64"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjG-_Kfs4jfkt1IaMfofYeq33NkJUjvYeHjjytJYrR6w&s" width="64" height="64"/>
 <br>
@@ -68,9 +68,9 @@
 <img src="" width="64" height="64"/> -->
 </div>
 <hr>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/DenadaiSenai/DenadaiSenai"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenadaiSenai&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenadaiSenai&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+</div> -->
 
